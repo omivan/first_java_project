@@ -1,0 +1,6 @@
+long myScore=11;
+myScore--;
+myScore++;
+
+
+System.out.println("MyScore is"+myScore);
