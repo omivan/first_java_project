@@ -2,13 +2,13 @@
 public class HelloWorld {
 	
 	public static void main(String[] args) {
-		System.out.println("Привет Ваня");
-		System.out.println("ул.Скороходова");
-		System.out.println("кв.4");
-		System.out.println("*    * ***** *     *      ****     *  *  *   *** *   *");
-		System.out.println("*    * *     *     *     *    *       *  *  **** **  *");
-		System.out.println("*    * *     *     *     *    *    *  *  * *   * * * *");
-		System.out.println("*    * ***** ***** *****  ****     *   *   *   * *  **");
+		System.out.println("ГЏГ°ГЁГўГҐГІ Г‚Г Г­Гї");
+		System.out.println("ГіГ«.Г‘ГЄГ®Г°Г®ГµГ®Г¤Г®ГўГ ");
+		System.out.println("ГЄГў.4");
+		System.out.println("*    * ***** *     *      ****     *  *  *   *** *   * !");
+		System.out.println("*    * *     *     *     *    *       *  *  **** **  * !");
+		System.out.println("*    * *     *     *     *    *    *  *  * *   * * * * !");
+		System.out.println("*    * ***** ***** *****  ****     *   *   *   * *  ** !");
                                                           	                                                        
    		// TODO Auto-generated method stub                  
 	}
